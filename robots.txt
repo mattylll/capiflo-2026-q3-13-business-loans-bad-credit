@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/capiflo-2026-q3-13-business-loans-bad-credit/sitemap.xml
